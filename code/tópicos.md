@@ -1,0 +1,37 @@
+WEB
+1. LAYOUT
+2. SELECTORS
+3. EVENTS
+4. ASYNC
+5. FORMS
+6. CANVAS
+PYTHON
+1. SELENIUM
+2. FLASK
+3. ARGPARSER
+4. LANGUAGE
+5. TKINTER
+6. PYGAME
+LUA
+1. PICO-8
+2. LOVE2D
+    1. PHYSICS 
+    2. GRAPHICS 
+        1. SHAPES
+        2. COLOR
+            1. l.g.setColor
+            2. l.g.setBackgroundColor
+            3. COLOR CONVERSIONS
+            4. COLOR MASK
+            5. COLOR MODE
+            6. COLOR BLENDING
+        3. TEXT
+        4. IMAGES
+        5. WINDOW
+        6. SURFACES/TEXTURES/CANVAS
+    3. INPUT 
+    4. SOUND
+    5. TIMER 
+    6. DATA
+3. LANGUAGE FUNCTIONAL / IMPERATIVE
+4. LANGUAGE OOP

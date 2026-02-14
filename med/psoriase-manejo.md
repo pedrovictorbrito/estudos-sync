@@ -4,7 +4,7 @@ LEVE
 	- Definição (%)
 	- Calcipotriol (D3) + ... (± ... para dobras) + Hidratação 
 
-MODERADO = ...pia @001
+MODERADO = ...pia @0001
 
 GRAVE/REFRATÁRIA = ...ato OU Acitretrina (esp. pustulosa) OU Ciclosporina (para crises agudas) OU Imunobiológicos (ex. anti-...)
 
