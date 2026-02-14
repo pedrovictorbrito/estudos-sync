@@ -35,7 +35,13 @@
     5. AVC
     6. IMUNO-MEDIADAS
 5. DERMATO
-    1. HANSENÍASE 
+    1. HANSENÍASE
+        1. [EPIDEMIOLOGIA](../../boletim-epidemiologico-de-hanseniase-numero-especial-jan-2025.pdf)
+        2. APRESENTAÇÕES 
+        3. DIAGNÓSTICO 
+        4. MEDICAMENTOS 
+        5. SEGUIMENTO
+        6. PREVENÇÃO 
     2. PIGMENTAÇÃO 
     3. IMUNOMEDIADO
         1. PSORÍASE
