@@ -1,4 +1,4 @@
-**8M** .
+**8M**
 1. PEDIATRIA
     1. CARDIO 
     2. PNEUMO 
