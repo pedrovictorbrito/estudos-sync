@@ -11,7 +11,9 @@
         5. MALABSORÇÃO
     5. NEURO
 2. HEMATO/INFECTO
-    1. HIV, TB, SÍFILIS, HANSEN, AMBIENTAIS
+    1. ARBOVIROSES, HEPATITES, ATB, MICOSES, MALÁRIA, LEPTO
+        1. [HEPATITES](hepatites-adulto.md)
+    2. HIV, TB, SÍFILIS, HANSEN, AMBIENTAIS
         1. [HIV](../hiv-2025.pdf)
 3. PSIQ/GERI
     1. [geriatria-2025](../../geriatria-2025.pdf)
