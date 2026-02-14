@@ -14,8 +14,8 @@
     1. HIV, TB, SÍFILIS, HANSEN, AMBIENTAIS
         1. [HIV](../hiv-2025.pdf)
 3. PSIQ/GERI
-    1. [geriatria-2025](../geriatria-2025.pdf)
-    2. [psiquiatria-2025](../psiquiatria-2025.pdf)
+    1. [geriatria-2025](../../geriatria-2025.pdf)
+    2. [psiquiatria-2025](../../psiquiatria-2025.pdf)
 4. NEURO
     1. JUNÇÃO 
     2. DEGENERATIVAS 
@@ -72,4 +72,11 @@
         6. DESCOLAMENTO 
     4. SURDEZ
     5. VERTIGEM
+        1. MÉNIÈRE
     6. OUVIDO
+        1. MÉDIA AGUDA NÃO COMPLICADA 
+        2. [MÉDIA AGUDA COMPLICADA](otite-media-aguda-complicada.md) 
+        3. MEDIA CRÔNICA
+        4. EXTERNA
+        5. INTERNA
+        6. OTOSCLEROSE
