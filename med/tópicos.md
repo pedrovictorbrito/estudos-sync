@@ -10,10 +10,22 @@
         4. [DRGE](drge-pediatria.md)
         5. MALABSORÇÃO
     5. NEURO
+        1. TEA, TDAH, TDO, APRENDIZAGEM
+        2. SÍNDROMES EPILÉPTICAS 
+        3. [CONVULSÃO FEBRIL](convulsao-febril.md) 
+        4. MENINGOENCEFALITES 
+        5. NEURODESENVOLVIMENTO
 2. HEMATO/INFECTO
-    1. ARBOVIROSES, HEPATITES, ATB, MICOSES, MALÁRIA, LEPTO
+    1. POIESE
+        1. [INFILTRATIVOS](hemato-infiltrativas.md)
+            1. HISTIOCITOSE 
+            2. MASTOCITOSE
+            3. AMILOIDOSE
+            4. SARCOIDOSE
+            5. [HEMOCROMATOSE](hemocromatose.md) 
+    2. ARBOVIROSES, HEPATITES, ATB, MICOSES, MALÁRIA, LEPTO
         1. [HEPATITES](hepatites-adulto.md)
-    2. HIV, TB, SÍFILIS, HANSEN, AMBIENTAIS
+    3. HIV, TB, SÍFILIS, HANSEN, AMBIENTAIS
         1. [HIV](../hiv-2025.pdf)
 3. PSIQ/GERI
     1. [geriatria-2025](../../geriatria-2025.pdf)
@@ -62,6 +74,12 @@
     4. INFECCIOSAS
     5. ACNE/ROSACEA
     6. CÂNCER 
+        1. APRESENTAÇÃO CLÍNICA 
+        2. DERMATOSCOPIA
+        3. UNHA
+        4. PREVENÇÃO, LESÕES PRÉ-CANCERÍGENAS
+        5. [MANEJO CIRÚRGICO](cirurgia-ca-pele.md)
+        6. PROGNÓSTICO 
 6. OFTALMO/OTORRINO
     1. OLHO VERMELHO
     2. CEGUEIRA
