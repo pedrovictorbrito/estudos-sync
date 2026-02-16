@@ -1,1 +1,0 @@
-![Screenshot_20260214_205017_Google](_res/Screenshot_20260214_205017_Google.jpg)
