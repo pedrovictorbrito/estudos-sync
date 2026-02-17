@@ -1,12 +1,69 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+@@0001
+
 - webdriver creation
+    - driver = selenium.webdriver.⎵⎵⎵()
+        - Chrome
 - url selection
+    - selenium.webdriver.⎵⎵⎵(url)
+        - get
 - driver quitting
+    - driver.⎵⎵⎵()
+        - quit
 - Implicit vs Explicit waiting strategy
-- implicit waiting
+    - Implicit = Can be global; Keeps trying the given action till it succeeds
+    - Explicit = Per element; Waits for a given state to be reached
+- setting implicit waiting globally
+    - options = selenium.get_⎵⎵⎵_chrome_options()
+        - default
+    - driver = selenium.webdriver.Chrome(options=options)
 - finding elements
+    - selenium.webdriver.⎵⎵⎵(by=By.CSS_SELECTOR, ⎵⎵⎵="h1")
+        - find_element (or elements)
+        - value
 - enter input 
-- text x textContent x innerHTML x innerText
-- set page load strategy and global implicit waits
+    - element.send_⎵⎵⎵("test")
+        - keys
+- innerHTML
+    - el.get_⎵⎵⎵("innerHTML")
+        - attribute
+        - or 
+- set global implicit waits
+    - options = get_default_chrome_options()
+    - options.⎵⎵⎵ = { "implicit": 5000 }
+        - timeouts
 
 from selenium import webdriver
 

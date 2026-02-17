@@ -1,9 +1,5 @@
-- GUI
-- BACKEND
-- SCRAPING = SELENIUM
-- GAME DEV
-    - PICO-8
-    - TIC-80
-    - PYGAME
-    - DRAGONRUBY
-- TEXT PROCESSING
+- GUI = PySide6 
+- BACKEND = Bottle
+- SCRAPING = Selenium
+- GAME DEV = DragonRuby
+- TEXT PROCESSING = PyParsing

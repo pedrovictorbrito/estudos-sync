@@ -1,12 +1,53 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+@@0001
+
 - Getter and setters in mRuby
+    - attr_accessor :x :y
 - Inheritance in mRuby
 - Definitions in mRuby
 - Rendering labels, sprites, line (primitive), solids
+    - Where does rotation go in args.outputs.sprites?
 - Background color
-- Hash vs Array notation
+    - args.outputs.background_color << [r, g, b] (or hash)
 - String and Watch debug
-- Rotate a sprite
-- Reading a mouse click @@0001 
+    - args.outputs.debug
+    - args.outputs.watch ⎵⎵⎵(obj)
+        - pretty_format
+- Reading a mouse click
+    - args.inputs.mouse.click.⎵⎵⎵.x
+        - point
 
 def tick args
   args.outputs.labels << [580, 400, 'Hello World!']
