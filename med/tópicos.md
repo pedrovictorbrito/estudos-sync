@@ -2,6 +2,10 @@
 1. PEDIATRIA
     1. CARDIO 
     2. PNEUMO 
+        1. PAC
+        2. SIBILÂNCIA 
+        3. SUPERIORES
+        4. NEONATAL
     3. DIP
     4. GASTRO
         1. CONSTIPAÇÃO 
