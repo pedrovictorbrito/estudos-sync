@@ -27,7 +27,7 @@
         2. HEMOFILIAS
         3. TROMBOFILIAS
         4. ANTICOAGULANTES
-        5. [TVP](tvp.med)
+        5. [TVP](tvp.md)
     3. POIESE
         1. [INFILTRATIVOS](hemato-infiltrativas.md)
             1. HISTIOCITOSE 
