@@ -79,7 +79,12 @@
         4. MEDICAMENTOS 
         5. SEGUIMENTO
         6. PREVENÇÃO 
-    2. PIGMENTAÇÃO 
+    2. PIGMENTAÇÃO, ALOPECIA
+        1. PITIRIASES
+        2. HIPERCROMIAS
+        3. ALOPECIAS PRIMÁRIAS 
+        4. ALOPECIAS SECUNDÁRIAS 
+        5. [OUTRAS HIPOPIGMENTAÇÕES](hipopigmentacoes.md)
     3. IMUNOMEDIADO
         1. [LÚPUS](lupus-dermato.md)
         2. PSORÍASE
