@@ -1,5 +1,5 @@
 - GUI = PySide6 
 - BACKEND = Bottle
-- SCRAPING = Selenium
+- SCRAPING = Puppeteer 
 - GAME DEV = DragonRuby
 - TEXT PROCESSING = PyParsing

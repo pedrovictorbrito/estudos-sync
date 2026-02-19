@@ -1,3 +1,36 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
 @@0001
 
 - from ⎵⎵⎵ import webdriver
@@ -13,14 +46,18 @@
 - driver.⎵⎵⎵("https://www.google.com")
     - get
 - driver.quit()
-- By.⎵⎵⎵
+- By.⎵⎵⎵ .
     - ID
+        - By.ID
     - Name
+        - By.NAME
     - CSS selector
+        - By.CSS_SELECTOR
     - XPath
+        - By.XPATH
 - Interactions
     - Typing
-        - e.send_keys
+        - e.send_keys(str)
     - Clicking
         - e.click()
     - Clearing text
