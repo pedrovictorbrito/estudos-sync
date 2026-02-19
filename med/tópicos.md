@@ -17,20 +17,27 @@
         1. TEA, TDAH, TDO, APRENDIZAGEM
         2. SÍNDROMES EPILÉPTICAS 
         3. [CONVULSÃO FEBRIL](convulsao-febril.md) 
-        4. MENINGOENCEFALITES 
+        4. [MENINGOENCEFALITES](meningite-ped.md) 
         5. NEURODESENVOLVIMENTO
 2. HEMATO/INFECTO
-    1. ANEMIAS
-    2. POIESE
+    1. ANEMIAS 
+        1. [TRANSFUSÃO](reacoes-transfusionais.md)
+    2. HEMOSTASIA
+        1. PLAQUETOPENIAS
+        2. HEMOFILIAS
+        3. TROMBOFILIAS
+        4. ANTICOAGULANTES
+        5. [TVP](tvp.med)
+    3. POIESE
         1. [INFILTRATIVOS](hemato-infiltrativas.md)
             1. HISTIOCITOSE 
             2. MASTOCITOSE
             3. AMILOIDOSE
             4. SARCOIDOSE
             5. [HEMOCROMATOSE](hemocromatose.md) 
-    3. ARBOVIROSES, HEPATITES, ATB, MICOSES, MALÁRIA, LEPTO
+    4. ARBOVIROSES, HEPATITES, ATB, MICOSES, MALÁRIA, LEPTO
         1. [HEPATITES](hepatites-adulto.md)
-    4. HIV, TB, SÍFILIS, HANSEN, AMBIENTAIS
+    5. HIV, TB, SÍFILIS, HANSEN, AMBIENTAIS
         1. [HIV](../hiv-2025.pdf)
 3. PSIQ/GERI
     1. [geriatria-2025](../../geriatria-2025.pdf)
@@ -45,6 +52,11 @@
         5. PARALISIA SUPRANUCLEAR PROGRESSIVA
         6. DEGENERAÇÃO CORTICOBASAL
     3. INFECCIOSAS
+        1. MENINGITES
+        2. ENCEFALITES
+        3. OPORTUNISTAS
+        4. NEUROSSÍFILIS
+        5. [MIELITES](mielites-infecciosas.md)
     4. SÍNDROMES E SEMIOLOGIA
         1. MEDULARES
         2. TRONCO ENCEFÁLICO 
@@ -69,7 +81,8 @@
         6. PREVENÇÃO 
     2. PIGMENTAÇÃO 
     3. IMUNOMEDIADO
-        1. PSORÍASE
+        1. [LÚPUS](lupus-dermato.md)
+        2. PSORÍASE
             1. DEMOGRAFIA, PREVALÊNCIA 
             2. TIPOS
             3. EXAME FÍSICO 
@@ -110,4 +123,4 @@
         3. MEDIA CRÔNICA
         4. EXTERNA
         5. INTERNA
-        6. OTOSCLEROSE
+        6. [OTOSCLEROSE](otosclerose.md)
