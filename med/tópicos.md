@@ -1,24 +1,30 @@
 **8M**
 1. PEDIATRIA
-    1. CARDIO 
-    2. PNEUMO 
-        1. PAC
-        2. SIBILÂNCIA 
-        3. SUPERIORES
-        4. NEONATAL
-    3. DIP
-    4. GASTRO
-        1. CONSTIPAÇÃO 
-        2. PARASITOSES 
-        3. ALERGIA A PROTEÍNA DO LEITE
-        4. [DRGE](drge-pediatria.md)
-        5. MALABSORÇÃO
-    5. NEURO
-        1. TEA, TDAH, TDO, APRENDIZAGEM
-        2. SÍNDROMES EPILÉPTICAS 
-        3. [CONVULSÃO FEBRIL](convulsao-febril.md) 
-        4. [MENINGOENCEFALITES](meningite-ped.md) 
-        5. NEURODESENVOLVIMENTO
+    1. Cardio, Imuno, Geral
+        1. GERAL
+            1. Aleitamento / Desnutrição 
+            2. Sexualidade 
+            3. Puericultura
+            4. Obesidade 
+            5. Estatura 
+    2. Dermato, Infecto, Onco
+        1. INFECTO 
+            1. Toxo congênita 
+            2. Sífilis congênita 
+            3. Exantemas
+            4. [HIV](hiv-vertical.md)
+            5. Hepatite 
+    3. Emergências, Intensiva, Pneumo 
+    4. Endócrino, Legal, Psiq
+    5. Gastro, Nefro, Osteoarticular
+    6. Hemato, Neuro, Preventiva 
+        1. HEMATO PED
+        2. NEURO PED 
+        3. PREVENTIVA PED 
+            1. Vacinas - Calendário 
+            2. Vacinas - Adversos
+            3. [Triagem neonatal](triagem-neonatal.md)
+            4. Reposições preemptivas
 2. HEMATO/INFECTO
     1. ANEMIAS 
         1. [TRANSFUSÃO](reacoes-transfusionais.md)
@@ -39,38 +45,11 @@
         1. [HEPATITES](hepatites-adulto.md)
     5. HIV, TB, SÍFILIS, HANSEN, AMBIENTAIS
         1. [HIV](../hiv-2025.pdf)
-3. PSIQ/GERI
-    1. [geriatria-2025](../../geriatria-2025.pdf)
-    2. [psiquiatria-2025](../../psiquiatria-2025.pdf)
-4. NEURO
-    1. JUNÇÃO 
-    2. DEGENERATIVAS 
-        1. ELA
-        2. PROTEÍNA TAU
-        3. ATROFIA DE MÚLTIPLOS SISTEMAS
-        4. HUNTINGTON, FRIEDERICH
-        5. PARALISIA SUPRANUCLEAR PROGRESSIVA
-        6. DEGENERAÇÃO CORTICOBASAL
-    3. INFECCIOSAS
-        1. MENINGITES
-        2. ENCEFALITES
-        3. OPORTUNISTAS
-        4. NEUROSSÍFILIS
-        5. [MIELITES](mielites-infecciosas.md)
-    4. SÍNDROMES E SEMIOLOGIA
-        1. MEDULARES
-        2. TRONCO ENCEFÁLICO 
-        3. CORTICAIS
-        4. PARES CRANIANOS
-        5. PERIFÉRICAS 
-        6. MANOBRAS
-            1. [FORÇA](semiologia-força.md)
-            2. EQUILÍBRIO 
-            3. MARCHAS
-            4. REFLEXOS
-            5. SENSIBILIDADE
-    5. AVC
-    6. IMUNO-MEDIADAS
+3. [PSIQ/GERI](_res/geri-psiq-2025.pdf)
+    1. [geriatria-2025](_res/geriatria-2025.pdf)
+    2. [psiquiatria-2025](_res/psiquiatria-2025.pdf)
+4. [NEURO](_res/neurologia-2025-2024.pdf)
+    1. [TUMORES](tumores-snc.md) 
 5. DERMATO
     1. HANSENÍASE
         1. [EPIDEMIOLOGIA](../../boletim-epidemiologico-de-hanseniase-numero-especial-jan-2025.pdf)
@@ -102,7 +81,7 @@
         3. UNHA
         4. PREVENÇÃO, LESÕES PRÉ-CANCERÍGENAS
         5. [MANEJO CIRÚRGICO](cirurgia-ca-pele.md)
-        6. PROGNÓSTICO 
+        6. [PROGNÓSTICO](ca-pele-prognostico.md) 
 6. OFTALMO/OTORRINO
     1. OLHO VERMELHO
     2. CEGUEIRA
@@ -129,3 +108,64 @@
         4. EXTERNA
         5. INTERNA
         6. [OTOSCLEROSE](otosclerose.md)
+
+
+
+
+
+
+
+
+
+
+
+.
+1. CARDIO 
+    1. PNEUMO 
+        1. PAC
+        2. SIBILÂNCIA 
+        3. SUPERIORES
+        4. NEONATAL
+    2. DIP
+    3. GASTRO
+        1. CONSTIPAÇÃO 
+        2. PARASITOSES 
+        3. ALERGIA A PROTEÍNA DO LEITE
+        4. [DRGE](drge-pediatria.md)
+        5. MALABSORÇÃO
+    4. NEURO
+        1. TEA, TDAH, TDO, APRENDIZAGEM
+        2. SÍNDROMES EPILÉPTICAS 
+        3. [CONVULSÃO FEBRIL](convulsao-febril.md) 
+        4. [MENINGOENCEFALITES](meningite-ped.md) 
+        5. NEURODESENVOLVIMENTO
+        6.
+       
+JUNÇÃO 
+    1. DEGENERATIVAS 
+        1. ELA
+        2. PROTEÍNA TAU
+        3. ATROFIA DE MÚLTIPLOS SISTEMAS
+        4. HUNTINGTON, FRIEDERICH
+        5. PARALISIA SUPRANUCLEAR PROGRESSIVA
+        6. DEGENERAÇÃO CORTICOBASAL
+    2. INFECCIOSAS
+        1. MENINGITES
+        2. ENCEFALITES
+        3. OPORTUNISTAS
+        4. [NEUROSSÍFILIS](neurossifilis.md)
+        5. [MIELITES](mielites-infecciosas.md)
+    3. SÍNDROMES E SEMIOLOGIA
+        1. MEDULARES
+        2. TRONCO ENCEFÁLICO 
+        3. CORTICAIS
+        4. PARES CRANIANOS
+        5. PERIFÉRICAS 
+        6. MANOBRAS
+            1. [FORÇA](semiologia-força.md)
+            2. EQUILÍBRIO 
+            3. MARCHAS
+            4. REFLEXOS
+            5. SENSIBILIDADE
+    4. AVC
+    5. IMUNO-MEDIADAS
