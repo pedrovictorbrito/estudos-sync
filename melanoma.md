@@ -82,3 +82,107 @@ Outro fator menos conhecido é o **melanoma associado à mucosa ou regiões não
 Por fim, um detalhe epidemiológico relevante: pacientes com **história prévia de melanoma** têm risco elevado de desenvolver **um segundo melanoma primário**, razão pela qual o seguimento dermatológico prolongado é essencial.
 
 Se quiser, também posso explicar **pistas dermatoscópicas de melanoma que fogem da regra ABCD** — algo bastante cobrado em prova e útil na prática clínica.
+
+A **Síndrome do nevo displásico** (também chamada de *dysplastic nevus syndrome* ou *familial atypical multiple mole melanoma syndrome – FAMMM* em alguns contextos) é um fenótipo cutâneo caracterizado por **múltiplos nevos atípicos associados a risco aumentado de melanoma**. Nem todos os pacientes têm base genética definida ou história familiar clara, por isso há uma sobreposição entre formas esporádicas e familiares.
+
+### Fenótipo cutâneo
+
+Os pacientes costumam apresentar:
+
+* **grande número de nevos melanocíticos** (frequentemente >50–100)
+* **múltiplos nevos displásicos** (≥5–10 em muitos critérios clínicos)
+* lesões com **variabilidade morfológica importante**
+
+Os **nevos displásicos** são maiores que nevos comuns (frequentemente >5 mm) e apresentam características intermediárias entre nevo benigno e **Melanoma**.
+
+Aspectos clínicos típicos:
+
+* bordas mal definidas ou irregulares
+* pigmentação heterogênea (marrom claro, marrom escuro, rosado)
+* **centro papular ou levemente elevado com halo macular periférico**
+* formato irregular (“*fried egg appearance*”)
+
+Distribuem-se não só em áreas fotoexpostas, mas também em **tronco, nádegas, couro cabeludo, mamas e região genital**, o que ajuda a diferenciá-los de nevos comuns relacionados apenas à exposição solar.
+
+Outro achado frequente é o chamado **“ugly duckling sign”**: uma lesão que parece diferente do padrão predominante dos outros nevos do paciente.
+
+### Histopatologia
+
+O termo “displásico” refere-se a um padrão histológico característico, com:
+
+* **proliferação lentiginosa de melanócitos** ao longo da junção dermoepidérmica
+* **atipia citológica variável**
+* **fibroplasia lamelar da derme papilar**
+* infiltrado inflamatório dérmico superficial
+* alongamento e fusão de cristas epidérmicas
+
+A atipia pode ser classificada como leve, moderada ou acentuada, embora haja **variabilidade entre patologistas**.
+
+Importante: a maioria dos melanomas em pacientes com essa síndrome **surge de novo**, e não necessariamente a partir da transformação direta de um nevo displásico.
+
+### Critérios clínicos
+
+Não existe um critério universalmente aceito, mas muitos esquemas incluem:
+
+* múltiplos nevos (>50–100)
+* vários nevos clinicamente atípicos
+* história pessoal ou familiar de **Melanoma**
+
+Quando há **agregação familiar de melanoma associada a nevos atípicos**, usa-se frequentemente o termo **Síndrome FAMMM**.
+
+### Genética
+
+Em algumas famílias há mutações germinativas, principalmente em **CDKN2A** (gene que codifica p16INK4A e p14ARF), envolvido na regulação do ciclo celular.
+
+Características associadas a mutações em CDKN2A:
+
+* maior risco de melanoma múltiplo
+* idade de início mais precoce
+* agregação familiar forte
+
+Em certas famílias também existe associação com **Câncer de pâncreas**, embora isso não ocorra em todos os casos.
+
+Outros genes ocasionalmente envolvidos incluem **CDK4** e variantes de **MC1R**, que modulam o fenótipo pigmentário.
+
+### Risco de melanoma
+
+O risco varia amplamente dependendo do fenótipo e da história familiar.
+
+Estimativas aproximadas descritas na literatura:
+
+* indivíduos com múltiplos nevos displásicos: risco várias vezes maior que a população geral
+* presença de nevos displásicos + história familiar de melanoma: risco **muito elevado** ao longo da vida
+* portadores de mutação CDKN2A: risco cumulativo que pode ultrapassar **50–70%** em algumas famílias
+
+Além disso, é comum o desenvolvimento de **melanomas múltiplos primários** nesses pacientes.
+
+### Seguimento clínico
+
+O manejo é centrado em vigilância intensiva.
+
+Principais estratégias:
+
+* **exame dermatológico periódico** (geralmente a cada 6–12 meses)
+* **dermatoscopia seriada**
+* **mapeamento corporal total com fotografia digital**
+* biópsia de lesões novas ou em mudança
+
+A excisão profilática de todos os nevos displásicos **não é recomendada**, porque:
+
+* a maioria não evolui para melanoma
+* pacientes têm dezenas ou centenas de lesões
+
+O foco clínico é **identificar mudanças evolutivas**.
+
+### Aspectos clínicos importantes para diagnóstico precoce
+
+Em pacientes com esse fenótipo, alguns sinais merecem atenção especial:
+
+* surgimento de **lesão nova após os 30–40 anos**
+* mudança rápida em um nevo pré-existente
+* diferença marcante em relação aos demais nevos (“ugly duckling”)
+* crescimento nodular ou alteração de cor
+
+Nesses pacientes, muitas vezes o diagnóstico precoce depende mais de **comparação longitudinal das lesões** do que da aplicação isolada da regra ABCDE.
+
+Se quiser, também posso explicar **como diferenciar clinicamente e dermatoscopicamente nevo displásico de melanoma inicial**, que é uma dificuldade comum mesmo para dermatologistas.
