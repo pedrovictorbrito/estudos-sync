@@ -18,3 +18,14 @@ A PV é uma doença crônica com sobrevida mediana que ultrapassa os 15-20 anos 
  * Mielofibrose Pós-PV: Caracterizada por anemia progressiva, esplenomegalia massiva e fibrose medular.
  * Transformação Leucêmica: A evolução para LMA ocorre em cerca de 3-10% dos casos e apresenta prognóstico muito reservado, sendo geralmente resistente à quimioterapia convencional.
 Gostaria que eu detalhasse a fisiopatologia da eritromelalgia ou as indicações específicas para o uso de Interferon na gestação?
+
+Os critérios de Arber referem-se, na verdade, à revisão da Classificação da OMS (WHO) de 2016 para Neoplasias Mieloproliferativas, da qual Daniel Arber foi o autor principal. Para o diagnóstico de Policitemia Vera (PV), a mudança fundamental foi a redução do limiar de hemoglobina e a inclusão da biópsia de medula óssea como critério maior.
+Para fechar o diagnóstico, você precisa de 3 critérios maiores ou dos 2 primeiros maiores + o critério menor.
+Critérios Maiores
+ * Aumento da massa eritrocitária: Caracterizado por Hemoglobina > 16,5 g/dL em homens ou > 16,0 g/dL em mulheres. Alternativamente, Hematócrito > 49% em homens ou > 48% em mulheres.
+ * Biópsia de Medula Ósseo: Presença de hipercelularidade para a idade com crescimento linhagem trilinhagem (panmielose), evidenciando proliferação eritroide, granulocítica e megacariocítica. Os megacariócitos costumam ser pleomórficos e maduros.
+ * Mutação Genética: Presença da mutação V617F no gene JAK2 ou da mutação no éxon 12 do JAK2.
+Critério Menor
+ * Eritropoetina (EPO) Sérica: Nível de eritropoetina abaixo do valor de referência normal.
+Observação clínica importante: O segundo critério maior (biópsia) pode ser dispensado se o paciente apresentar eritrocitose absoluta sustentada (Hemoglobina > 18,5 g/dL em homens ou > 16,5 g/dL em mulheres) e a presença da mutação JAK2, embora a biópsia continue sendo recomendada para avaliar fibrose medular inicial.
+Gostaria que eu detalhasse as diferenças específicas entre a mutação no V617F e as mutações no éxon 12?

@@ -1,0 +1,1 @@
+MoCA = Mais sensível que mini mental para CCL
