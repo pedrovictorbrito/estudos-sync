@@ -1,0 +1,14 @@
+Como você já está na jornada da medicina, vamos pular o básico das tineas comuns e focar naquelas apresentações que costumam "pregar peça" no diagnóstico diferencial por simularem outras patologias.
+Quérion Celsi
+É a forma inflamatória exuberante da tinea capitis, geralmente decorrente de uma resposta de hipersensibilidade tardia a fungos zoofílicos (como o Trichophyton mentagrophytes). Clinicamente, você encontrará uma placa bem delimitada, edemaciada, dolorosa e purulenta.
+O ponto crucial aqui é o Sinal do Regador: ao pressionar a lesão, o pus drena por múltiplos orifícios foliculares. Devido à intensa inflamação, há destruição folicular, o que frequentemente resulta em alopecia cicatricial se o tratamento com antifúngicos sistêmicos e, por vezes, corticoides não for iniciado rapidamente.
+Tinea Nigra
+Diferente das outras, esta é uma feohifomicose superficial causada pelo fungo dematiáceo Hortaea werneckii. Ela é estritamente restrita à camada córnea e ocorre principalmente em regiões palmoplantares.
+A apresentação é uma mancha acastanhada ou enegrecida, de crescimento centrífugo e bordas irregulares. O maior perigo aqui não é a gravidade da doença, mas o erro diagnóstico: ela simula perfeitamente um nevo juncional ou, pior, um melanoma lentiginoso acral. A diferenciação é feita pela dermatoscopia (onde se observa um padrão de espículas que não respeita os sulcos e cristas) e pelo exame direto (micológico), que revela hifas acastanhadas.
+Tinea Incognita
+Esta é a "forma camaleão" que surge quando uma dermatofitose clássica é tratada erroneamente com corticoides tópicos. O corticoide mascara a inflamação, eliminando o bordo descamativo ativo característico, mas permite que o fungo prolifere profundamente. A lesão perde o aspecto anular típico e passa a apresentar pústulas, pápulas e uma atrofia cutânea secundária, dificultando muito o diagnóstico visual sem o auxílio do laboratório.
+Granuloma de Majocchi
+Ocorre quando o dermatófito rompe a barreira folicular e invade a derme, gerando uma reação granulomatosa profunda. É mais comum em mulheres que depilam as pernas com lâmina e depois aplicam corticoides, ou em imunossuprimidos. Clinicamente, manifesta-se como pápulas ou nódulos eritematosos perifoliculares, geralmente agrupados em uma base eritematosa. Ao contrário das tineas superficiais, o tratamento tópico é ineficaz aqui; o manejo exige antifúngicos orais por tempo prolongado.
+Tinea de Imbricata (Tokelau)
+Causada especificamente pelo Trichophyton concentricum, é raríssima e restrita a grupos isolados (comum em populações indígenas). Apresenta-se como anéis escamosos concêntricos e polidíclicos que se sobrepõem como escamas de peixe ou telhas, cobrindo grandes áreas do corpo e poupando palmas e plantas.
+Gostaria que eu detalhasse o manejo terapêutico específico para o Quérion Celsi, considerando as doses pediátricas habituais?
