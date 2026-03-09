@@ -21,3 +21,5 @@ O rastreio não deve ser universal. Ele é indicado em:
  * Tromboses recorrentes ou sem fatores de risco evidentes (idiopáticas).
 Nota importante: A testagem de proteínas C, S e Antitrombina durante o evento agudo ou em uso de anticoagulantes gera falsos-positivos. O ideal é investigar após a fase aguda e com o paciente fora de terapia anticoagulante por pelo menos 2 a 4 semanas.
 Gostaria que eu detalhasse o manejo anticoagulante específico para alguma dessas condições?
+
+![Screenshot_20260309_160125_ReadEra Premium](_res/Screenshot_20260309_160125_ReadEra%20Premium.png)
