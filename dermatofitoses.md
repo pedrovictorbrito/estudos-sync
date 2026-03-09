@@ -12,3 +12,26 @@ Ocorre quando o dermatófito rompe a barreira folicular e invade a derme, gerand
 Tinea de Imbricata (Tokelau)
 Causada especificamente pelo Trichophyton concentricum, é raríssima e restrita a grupos isolados (comum em populações indígenas). Apresenta-se como anéis escamosos concêntricos e polidíclicos que se sobrepõem como escamas de peixe ou telhas, cobrindo grandes áreas do corpo e poupando palmas e plantas.
 Gostaria que eu detalhasse o manejo terapêutico específico para o Quérion Celsi, considerando as doses pediátricas habituais?
+
+O manejo do Quérion Celsi é uma urgência dermatológica. Diferente das tineas não inflamatórias, aqui o objetivo não é apenas a erradicação do fungo, mas a contenção agressiva da resposta imune para evitar a fibrose do folículo piloso e a consequente alopecia definitiva.
+O tratamento tópico isolado é inútil, pois o fungo e o processo inflamatório estão profundamente alojados no folículo e na derme.
+1. Antifúngicos Sistêmicos (Padrão-Ouro)
+A escolha do fármaco depende do agente etiológico (zoofílico vs. antropofílico), mas na prática clínica, iniciamos empiricamente:
+ * Griseofulvina: Ainda é considerada a droga de escolha por muitos autores para o público pediátrico devido ao seu perfil de segurança e eficácia contra o gênero Microsporum. A dose varia de 20 a 25 mg/kg/dia (microcristalina) por 8 a 12 semanas.
+ * Terbinafina: Extremamente eficaz contra o gênero Trichophyton. Para crianças, a dose é baseada no peso:
+   * < 20 kg: 62,5 mg/dia.
+   * 20–40 kg: 125 mg/dia.
+   * > 40 kg: 250 mg/dia.
+     > 
+   * Duração: Geralmente 4 a 6 semanas, mas no Quérion pode estender-se até a resolução clínica.
+2. Corticoterapia Adjuvante
+Esta é a grande particularidade do Quérion. Para "apagar o fogo" da inflamação e reduzir o risco de cicatriz:
+ * Prednisona oral: Utiliza-se na dose de 0,5 a 1 mg/kg/dia por 7 a 14 dias. O desmame deve ser gradual para evitar o efeito rebote. O corticoide diminui a dor, o edema e a formação de crostas purulentas rapidamente.
+3. Cuidados Locais e Higiene
+ * Compressas úmidas: O uso de compressas com soro fisiológico ou solução de permanganato de potássio (1:10.000) ajuda a remover as crostas melicéricas e o exsudato, facilitando a higiene sem traumatizar a área.
+ * Antibióticos: Frequentemente há infecção bacteriana secundária (Staphylococcus aureus). Se houver sinais de celulite perilesional ou febre, associa-se um antibiótico sistêmico (como Cefalexina).
+ * Xampus: O uso de xampus de cetoconazol 2% ou sulfeto de selênio 2,5% 3 vezes por semana serve para reduzir a viabilidade de esporos e a transmissão, mas não substitui a terapia oral.
+Monitoramento e Prognóstico
+A melhora do edema e da dor ocorre nas primeiras duas semanas. No entanto, o crescimento do cabelo pode levar meses para ser reavaliado. Se após o tratamento a área permanecer lisa, brilhante e sem orifícios foliculares (óstios), o diagnóstico é de alopecia cicatricial.
+Atenção: Como futuro médico, nunca faça drenagem cirúrgica ("incisão e drenagem") em um Quérion. O pus sai pelo sinal do regador e a incisão só aumentará o trauma tecidual e a chance de cicatriz inestética.
+Deseja que eu apresente os critérios laboratoriais para a alta do paciente ou prefere discutir a diferenciação laboratorial entre Microsporum e Trichophyton?
