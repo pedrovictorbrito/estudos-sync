@@ -1,3 +1,5 @@
+![Screenshot_20260311_204709_Opera](_res/Screenshot_20260311_204709_Opera.png)
+
 Como você está na graduação, o foco aqui é a diferenciação clínica entre as patologias inflamatórias, infecciosas e estruturais que você certamente encontrará no internato e no pronto-socorro.
 Patologias Inflamatórias e Infecciosas
 O Hordéolo é a clássica infecção bacteriana aguda (geralmente por Staphylococcus aureus) das glândulas palpebrais. Quando acomete as glândulas de Meibomius, chamamos de hordéolo interno; quando atinge as glândulas de Zeiss ou Moll, é o hordéolo externo (o "terçol"). Clinicamente, apresenta os sinais cardinais da inflamação: dor, calor, rubor e edema localizado. O tratamento foca em compressas mornas para drenagem espontânea e, por vezes, antibióticos tópicos.
